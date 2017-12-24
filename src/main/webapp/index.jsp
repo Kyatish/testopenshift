@@ -2,6 +2,7 @@
     pageEncoding="ISO-8859-1"%>
 <html>
 	<head>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<title>Hello</title>
 	</head>
 	<body>
