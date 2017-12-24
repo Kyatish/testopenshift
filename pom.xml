@@ -19,6 +19,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>MyOpenshift</finalName>
+    <finalName>ROOT</finalName>
   </build>
 </project>
