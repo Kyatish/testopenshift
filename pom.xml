@@ -3,7 +3,10 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>yatish</groupId>
   <artifactId>MyOpenshift</artifactId>
-  <packaging>war</packaging>
+  <properties>
+    <failOnMissingWebXml>false</failOnMissingWebXml>
+</properties>  
+   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
   <name>MyOpenshift Maven Webapp</name>
   <url>http://maven.apache.org</url>
